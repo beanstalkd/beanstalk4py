@@ -1,4 +1,8 @@
-beanstalkd
-==========
+beanstalk4py
+============
 
-beanstalkd is contrib on windows platform
+beanstalk4py is crossplatform implementation on Python beanstalkd protocol.
+
+```python
+
+```
