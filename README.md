@@ -117,3 +117,6 @@ Links
 * Origianl protocols documentation http://github.com/kr/beanstalkd/tree/v1.3/doc/protocol.txt
 * Copy protocols documentation with UML illustration in https://github.com/vit1251/beanstalk4py/wiki/Beanstalk-Protocol
 * Yet another Tornado implementation on https://bitbucket.org/nephics/beanstalkt
+* Yet another pure Python implementation https://github.com/earl/beanstalkc/ (compatible with gevent)
+* Yet another pure Python implementation https://code.google.com/p/pybeanstalk/
+* Perl client library you may search on http://search.cpan.org/dist/Beanstalk-Client/
