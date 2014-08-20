@@ -1,7 +1,7 @@
 beanstalk4py
 ============
 
-beanstalk4py is crossplatform implementation on Python beanstalkd protocol.
+beanstalk4py is crossplatform implementation on Python beanstalkd protocol based on Twisted Framework.
 
 Let's look on put example:
 
@@ -111,5 +111,9 @@ Make your own client API. It's easy! The 1.3 protocol doc gives a complete descr
 
 Note: as of version 1.0 the protocol will remain compatible until beanstalkd 2.0. Any client written to work with a 1.x beanstalkd will also work, unchanged, with any later beanstalkd before 2.0.
 
-Origianl docs in http://github.com/kr/beanstalkd/tree/v1.3/doc/protocol.txt
-Currently used spec in https://github.com/vit1251/beanstalk4py/wiki/Beanstalk-Protocol
+Links
+-----
+
+* Origianl protocols documentation http://github.com/kr/beanstalkd/tree/v1.3/doc/protocol.txt
+* Copy protocols documentation with UML illustration in https://github.com/vit1251/beanstalk4py/wiki/Beanstalk-Protocol
+* Yet another Tornado implementation on https://bitbucket.org/nephics/beanstalkt
